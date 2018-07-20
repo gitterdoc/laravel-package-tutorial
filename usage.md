@@ -1,4 +1,4 @@
-# Installing/Using your package
+# :six: Installing/Using your package
 
 You have **two options** to install/provide your package:
  - **Option 1:** laravel uses your package (recommended)

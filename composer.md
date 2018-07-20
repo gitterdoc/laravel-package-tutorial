@@ -49,7 +49,7 @@ That's is it!
       <a href="environment.md">[ < Previous ] Create yor local package environment</a>
     </th>
     <th style="text-align: right">
-      <a href="create.md">Create your first package [ Next > ]</a>
+      <a href="package.md">Create your first package [ Next > ]</a>
     </th>
   </tr>
 </div>

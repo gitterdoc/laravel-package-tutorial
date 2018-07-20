@@ -1,4 +1,4 @@
-# Create your first package
+# :five: Create your first package
 
 Here comes the magic. Create your own Package!
 

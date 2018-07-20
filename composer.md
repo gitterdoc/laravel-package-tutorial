@@ -10,7 +10,7 @@ In your laravel project, you find the file `composer.json` - here you must add s
     // The other content of your file
     
     "repositories": {
-		"local2": {
+	"packages": {
             "type": "path",
             "url": "/opt/laravel/packages/*/*/",
 			"options": {
@@ -27,7 +27,7 @@ In your laravel project, you find the file `composer.json` - here you must add s
     // The other content of your file
     
     "repositories": {
-		"local2": {
+	"packages": {
             "type": "path",
             "url": "D:/laravel/packages/*/*/",
 			"options": {

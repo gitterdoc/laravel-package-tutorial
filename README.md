@@ -21,4 +21,4 @@ You can find an example package in the [releases section](https://github.com/git
 No problem! Write us, create an [issue](https://github.com/gitterdoc/laravel-package-tutorial/issues/new) with your question! :blush:
 
 ## :fire: Support us!
-I'm a excellent and professional web- & software developer but i don't work anymore in these branche. I spend spend some free time to create awesome content. Support me by **liking my repositorys** :heart_eyes: or spend me a coffee :coffee:!
+I'm a excellent and professional web- & software developer but i don't work anymore in these branche. I spend some free time to create awesome content. Support me by **liking my repositorys** :heart_eyes: or spend me a coffee :coffee:!

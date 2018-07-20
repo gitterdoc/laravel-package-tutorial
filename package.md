@@ -145,7 +145,7 @@ In the last step, you will see, how you can use your package.
       <a href="composer.md">[ < Previous ] Update yor composer.json on laravel</a>
     </th>
     <th style="text-align: right">
-      <a href="update.md">Installing/Using your package [ Next > ]</a>
+      <a href="usage.md">Installing/Using your package [ Next > ]</a>
     </th>
   </tr>
 </div>

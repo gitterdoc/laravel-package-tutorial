@@ -13,7 +13,7 @@ In your laravel project, you find the file `composer.json` - here you must add s
 	"packages": {
             "type": "path",
             "url": "/opt/laravel/packages/*/*/",
-			"options": {
+	    "options": {
                 "symlink": true
             }
         }
@@ -30,7 +30,7 @@ In your laravel project, you find the file `composer.json` - here you must add s
 	"packages": {
             "type": "path",
             "url": "D:/laravel/packages/*/*/",
-			"options": {
+	    "options": {
                 "symlink": true
             }
         }

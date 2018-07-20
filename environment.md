@@ -25,6 +25,7 @@ Yet, you will create the directory `packages`:
 ```
 
 You now created the following structure:
+
 **Linux**
 ```
 /opt

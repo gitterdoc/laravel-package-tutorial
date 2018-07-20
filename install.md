@@ -6,7 +6,7 @@ Following steps on [https://laravel.com/docs/5.6/installation](https://laravel.c
 <table width="100%">
   <tr>
     <th>
-      <a href="readme.md">[ < Overview ] Go Back</a>
+      <a href="README.md">[ < Overview ] Go Back</a>
     </th>
     <th style="text-align: right">
       <a href="project.md">Create a laravel project  [ Next > ]</a>

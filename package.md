@@ -105,9 +105,35 @@ And place following content:
   
   class Example {
   	public function __construct() {
-    	print 'My example package example\demo\Example!';
-    }
-  }
+    	  print 'My example package example\demo\Example!';
+     	} 
+   }
+```
+
+The structure of yor package is now as followed:
+
+**Linux**
+```
+ /opt
+   /laravel
+     /packages
+       /demo
+         /example
+           /src
+	      /Example.php
+	   /composer.json
+```
+
+**Windows**
+```
+ D:/
+   laravel/
+     packages/
+       demo/
+         example/
+           src/
+	      Example.php
+	   composer.json
 ```
 
 In the last step, you will see, how you can use your package.

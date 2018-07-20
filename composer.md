@@ -1,4 +1,4 @@
-# Update yor composer.json on laravel
+# :four: Update yor composer.json on laravel
 
 Now, you had created  your `packages` directory - Here you will create later your own laravel packages.
 

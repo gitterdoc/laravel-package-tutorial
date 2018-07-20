@@ -1,4 +1,4 @@
-# Create a laravel project
+# :two: Create a laravel project
 > **NOTE:** If you already have an laravel project or an site, you can skip this step!
 
 After [installation of laravel](install.md), you can create your project. Navigate to your path you want.

@@ -38,6 +38,8 @@ In your laravel project, you find the file `composer.json` - here you must add s
 }
 ```
 
+> **NOTE:** After changing your `composer.json`, you must run `composer update`!
+
 That's is it!
 
 ----

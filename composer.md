@@ -9,15 +9,15 @@ In your laravel project, you find the file `composer.json` - here you must add s
 {
     // The other content of your file
     
-    "repositories": [
-        {
+    "repositories": {
+		"local2": {
             "type": "path",
-            "url": "/opt/laravel/packages",
-            "options": {
+            "url": "/opt/laravel/packages/*/*/",
+			"options": {
                 "symlink": true
             }
         }
-    ]
+    }
 }
 ```
 
@@ -26,15 +26,15 @@ In your laravel project, you find the file `composer.json` - here you must add s
 {
     // The other content of your file
     
-    "repositories": [
-        {
+    "repositories": {
+		"local2": {
             "type": "path",
-            "url": "D:/laravel/packages",
-            "options": {
+            "url": "D:/laravel/packages/*/*/",
+			"options": {
                 "symlink": true
             }
         }
-    ]
+    }
 }
 ```
 

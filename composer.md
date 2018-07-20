@@ -7,7 +7,7 @@ In your laravel project, you find the file `composer.json` - here you must add s
 **Linux:** `/opt/laravel/composer.json` 
 ```json
 {
-    // ...
+    // The other content of your file
     
     "repositories": [
         {
@@ -24,7 +24,7 @@ In your laravel project, you find the file `composer.json` - here you must add s
 **Windows:** `D:/laravel/composer.json` 
 ```json
 {
-    // ...
+    // The other content of your file
     
     "repositories": [
         {

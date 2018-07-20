@@ -18,7 +18,7 @@ You need to add following line to your `composer.json` of the laravel project:
    "require": {
       // Other used packages
       
-      "demo/example": "dev-master"
+      "demo/example": "@dev"
    }
 }
 ```
@@ -43,8 +43,14 @@ Like **Option 1**, you only need to add the reference in your own package's `com
 }
 ```
 
-## Update before using your package!
-Yep, you have **changed** a `composer.json` (irrelevant, if the composer file is from your laravel project or from your package)!
+## Install the sub-requirement and update before using your package!
+If you're using directly `composer update`, it breaks with an error, because the new local package can't be resolved. You must first install it directly with:
+
+```
+  composer require <package/name> @dev
+```
+
+And yep, you have **changed** a `composer.json` (irrelevant, if the composer file is from your laravel project or from your package)!
 Tell composer, the new configuration:
 
 ```
